@@ -4798,6 +4798,9 @@ packages:
         - rex
         - run-st
         - zigzag
+        
+    "Scott Sadler <scott@scottsadler.de> @ssadler":
+        - aeson-quick
 
     "Grandfathered dependencies":
         - Boolean
